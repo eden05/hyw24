@@ -11,6 +11,7 @@ let arryPoster = [
   { name: "황혜진", item: "004" },
   { name: "옥지원", item: "004" },
   { name: "전희주", item: "004" },
+  { name: "오지현", item: "004" },
   { name: "박다현", item: "005" },
   { name: "최인영", item: "005" },
   { name: "홍효정", item: "005" },
